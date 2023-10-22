@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Roboto";
+  text-align: center;
+}
+header {
+  background-color: blueviolet;
+  padding: 20px;
+  margin: 0;
+}
+nav ul li {
+  display: inline;
+  padding: 10px;
+  margin: 0;
+}
+nav ul li a {
+  text-decoration: none;
+  color: aqua;
+}
+h1 {
+  color: brown;
+}
